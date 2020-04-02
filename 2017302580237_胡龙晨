@@ -1,0 +1,24 @@
+# Network distributed computing the fifth homework
+## UDP checksum with python
+
+
+## Exercises
+### T1
+(a)A to S , source port numbers:467  destination port numbers:23
+
+(b)B to S , source port numbers:513  destination port numbers:23
+
+(c)S to A , source port numbers:23  destination port numbers:467
+
+(d)S to B , source port numbers:23  destination port numbers:513
+
+(e)Yes
+
+(f)No
+
+### T4
+(a)The sum of these two bytes：11000001 . Its inverse is 00111110
+
+(b)The sum of these two bytes：01000000 . Its inverse is 10111111
+
+(c)The first byte : 01010100 . The second byte : 01101101
